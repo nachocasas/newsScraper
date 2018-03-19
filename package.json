@@ -1,0 +1,16 @@
+{
+  "name": "news-scrapper",
+  "version": "1.0.0",
+  "description": "A simple web scraper",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ignacio Casas",
+  "license": "",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "latest",
+    "express": "latest"
+  }
+}
